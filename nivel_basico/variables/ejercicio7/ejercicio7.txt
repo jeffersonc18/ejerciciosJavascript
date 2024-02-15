@@ -1,0 +1,5 @@
+¿Cuándo se deberían usar ?
+
+Las variables se usan principalmente en datos de entrada que son pedidos a los usuarios o a valores que dependen de otras operaciones, tambien a datos que sirven de punto de referencia como los acumuladores.
+
+Por otra parte las constantes corresponden a datos que en su mayoría son proporcionados por el sistema o corresponden a valores establecidos por una norma dada.

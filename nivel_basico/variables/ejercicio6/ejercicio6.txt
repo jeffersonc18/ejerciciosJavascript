@@ -1,0 +1,4 @@
+¿Cuál es la diferencia entre una variable y una constante?
+
+
+Una variable es un espacio de memoria asignado a un valor que puede cambiar con el tiempo, mientras que una constante es un valor que permanece inalterable.
